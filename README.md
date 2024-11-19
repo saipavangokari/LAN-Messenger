@@ -84,15 +84,15 @@ Ensure you have the following installed:
 
 ## Screenshots
 
-**Server**:
+# Server:
 
 ![Server](https://github.com/user-attachments/assets/a2638bf3-43f9-49f3-a5ff-4137d2269453)
 
-**Client-Connection**:
+# Client-Connection:
 
 ![Client-Connection](https://github.com/user-attachments/assets/1aaf9417-7a06-4fe4-ba80-61b089d9a0ba)
 
-**Client-Chatbox**:
+# Client-Chatbox:
 
 ![Client-Chatbox](https://github.com/user-attachments/assets/e650792d-0bfc-4f6a-bacc-1d7592fc69b3)
 
